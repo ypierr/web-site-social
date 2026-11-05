@@ -1,0 +1,13 @@
+.venv/
+work/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.sqlite3
+media/
+*.pem
+*.key
+cert.crt
+cert.key
